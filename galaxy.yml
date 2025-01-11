@@ -1,0 +1,11 @@
+---
+authors:
+  - Dmitriy Rabotyagov <noonedeadpunk@gmail.com>
+namespace: noonedeadpunk
+name: noop
+version: 0.0.1
+readme: "README.rst"
+description: Noop collection
+license:
+  - Apache-2.0
+repository: https://github.com/noonedeadpunk/noop-collection
